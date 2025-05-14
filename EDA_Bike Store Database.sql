@@ -1,3 +1,14 @@
+-- 📌 Overview:
+-- This project focuses on exploring a relational sales database using SQL,
+-- aiming to extract key business metrics related to sales performance, employee productivity, and inventory status.  
+-- The SQL queries serve as the foundation for further analysis via Excel and data visualizations.
+
+-- ➡️ View visualizations and Excel analysis here: 
+-- [商業數據專案實作｜Bike Store Database](https://www.notion.so/Bike-Store-Database-1-1f3eda9dcf8b80708a22def50ccebfe6?pvs=4)
+
+-- 📊 Data Used: [Bike Store Relational Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database/data)  
+
+
 CREATE DATABASE bike_store;
 USE bike_store;
 
@@ -286,6 +297,6 @@ ORDER BY StoreId;
 
 
 
--- This SQL section mainly focuses on data exploration and deriving key metrics to support further analysis.
--- Most of the business findings are presented via dashboards and visualizations. 
--- You can find them here: https://www.notion.so/Bike-Store-Database-1-1f3eda9dcf8b80708a22def50ccebfe6?pvs=4
+-- End of SQL queries.
+-- Most of the business insights are further analyzed and visualized here:
+-- https://www.notion.so/Bike-Store-Database-1-1f3eda9dcf8b80708a22def50ccebfe6?pvs=4
